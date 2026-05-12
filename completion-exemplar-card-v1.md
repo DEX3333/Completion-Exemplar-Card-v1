@@ -43,9 +43,6 @@ The goal is to make one completed Task Node contribution pattern concrete and sa
 ![Redacted Context section showing selected values](images/precise-redacted-context-selected-sections.png)
 Screenshot of my Context.
 
-**Context title:**  
-Root values and life design.
-
 Context is a living document that must be nourished to get the most out of the Task Node.
 
 My personal context has changed drastically, you could say 2 or 3 times in the past few months. My context-building workflow is a highly motivated 2–3hr sesh where I write down all my values, strategies, and tactics. It doesn’t have to be perfect, just as honest as possible.
