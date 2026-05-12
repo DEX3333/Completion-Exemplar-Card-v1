@@ -73,6 +73,8 @@ Start by going to the **Sprint** tab under **Context** modality.
 ![Context full rewrite](images/05-context-full-rewrite.png) 
 
 Prompt with what you’d like to work on first. Once you come to an agreement on what the sprint should entail, it’ll propose an edit. Look it over, lock it in, and that will populate your context doc as well.
+
+The Sprint Plan turns context into a scoped work plan before the contributor requests a formal task.
 ![Full rewrite buttons](images/09-full-rewrite-buttons.png)
 
 Down the line you will replace and edit these in your context doc as you complete them.
