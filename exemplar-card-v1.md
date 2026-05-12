@@ -34,6 +34,12 @@ The goal is to make one completed Task Node contribution pattern concrete and sa
 
 ---
 
+## Finished-State Signal
+
+This exemplar is complete when it shows one annotated Task Node contribution pattern, identifies the modeled artifact format, explains the intended newcomer action, displays proof-safe screenshots, and makes clear how finished work becomes Task Node proof, reputation, and rewards.
+
+---
+
 # Completion Exemplar Card
 
 ---
@@ -183,7 +189,7 @@ The goal is to make one completed contribution easy to verify.
 
 ---
 
-# Privacy-Safe Screenshot Guidance
+# Proof Safe Screenshot Guidance
 
 Screenshots are useful because they make the Task Node loop visible.
 
@@ -215,7 +221,7 @@ Keep only what helps the reviewer understand:
 
 ---
 
-# Reviewer Checklist
+# Completion Checklist
 
 A reviewer can pass this exemplar if:
 
@@ -232,22 +238,6 @@ A reviewer can pass this exemplar if:
 - the page does not become a broad campaign or multi-template system
 - screenshots are privacy-safe
 - the artifact URL is directly reviewable
-
----
-
-# Output-Only Attestation
-
-This exemplar presents the finished public output and reviewable proof path only.
-
-It does not require private drafts, hidden coordination, wallet identifiers, private Discord material, or sensitive internal information.
-
-Review should be based on:
-
-- the public page
-- the submitted URL
-- the visible completion criteria
-- the proof-safe screenshots
-- the short completion note
 
 ---
 
