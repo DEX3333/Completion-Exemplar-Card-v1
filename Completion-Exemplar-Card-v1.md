@@ -22,16 +22,13 @@ It is not an XRP token, XRP app, or feature inside XRP.
 
 ## Modeled Artifact Format
 
-**Completion Exemplar Card**
+**Public Contributor Conversion Page / Adoption-Flow Explainer**
 
-This exemplar models a real Task Node completion path using the main Post Fiat Task Node mechanism:
+This exemplar models a previously rewarded public-facing Post Fiat artifact format: the Discord Contributor Adoption Flow v1.
 
-**Context → Tasks → Proof → Reputation → Rewards**
+The prior artifact is used only as the model for what a completed public-artifact contribution looks like. It is not being resubmitted as the new deliverable.
 
-The goal is not to explain all of Post Fiat.
-
-The goal is to make one completed Task Node contribution pattern concrete and safe for a newcomer to imitate.
-
+This new deliverable is the Completion Exemplar Card v1: a single annotated page showing how a completed Task Node contribution moves from Context → Tasks → Proof → Reputation → Rewards.
 ---
 
 ## Finished-State Signal
