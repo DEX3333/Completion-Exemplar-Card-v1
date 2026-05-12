@@ -84,8 +84,7 @@ Next, upper right dropdown:
 **Dashboard → Request Task**
 ![Profile dropdown](images/08-profile-dropdown.png)
 
-Under the **Personal** tab
-Prompt with your sprint objective title.
+Under the **Personal** tab, prompt with your sprint objective title.
 
 The Task Node will generate your first task.
 
@@ -134,7 +133,7 @@ This will give you your full rundown of reward, alignment, Task Node feedback, a
 It will also summarize the process that got you there, which relates back to proof.
 ![Forensic timeline](images/17-forensic-timeline.png)
 
-All immutable on the blockchain. Portable reputation.
+All immutable on the blockchain = portable reputation.
 
 ---
 
