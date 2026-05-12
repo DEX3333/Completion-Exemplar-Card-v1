@@ -1,4 +1,4 @@
-# Completion Exemplar Card v1
+# Exemplar Card v1
 
 ## Context → Tasks → Proof → Reputation → Rewards
 
@@ -8,11 +8,11 @@
 
 ## Purpose
 
-This page shows one real completed Post Fiat public-artifact contribution from start to finish.
+This exemplar uses screenshots from a real previously rewarded Task Node contribution, along with current mid-task screenshots from Exemplar Card v1, to show the completion pattern.
 
-It is not a resubmission of the original artifact.
+It does not resubmit the prior artifact.
 
-It is an annotated exemplar that helps newcomers understand how Task Node turns **context** into a bounded task, a finished public artifact, proof, reputation, and rewards.
+The new deliverable is this annotated Completion Exemplar Card: a public, no-login page that helps newcomers understand how Task Node turns **context** into a bounded task, a finished public artifact, proof, reputation, and rewards.
 
 Post Fiat is an independent XRP hard-fork Layer 1 network and XRP competitor.
 
@@ -251,4 +251,4 @@ Published one public, no-login Completion Exemplar Card v1 using Context as the 
 
 The page shows one completed Task Node contribution pattern, identifies the modeled artifact format, displays the finished-state signal, and explains the proof expectation using privacy-safe screenshots and a direct public artifact URL.
 
-**URL:** [https://github.com/DEX3333/Discord-Contributor-Adoption-Flow-v1/blob/main/Discord%20Contributor%20Adoption%20Flow%20v1]
+**URL:** [INSERT COMPLETION EXEMPLAR CARD V1 URL AFTER PUBLISHING]
