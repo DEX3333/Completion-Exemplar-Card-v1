@@ -89,7 +89,7 @@ Next, upper right dropdown:
 
 Under the **Personal** tab, prompt with your sprint objective title.
 
-The Task Node will generate your first task.
+The Task Node will generate your first task!
 
 You’ll have the option to **Accept**, **Amend**, or **Refuse**.
 
