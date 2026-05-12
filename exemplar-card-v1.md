@@ -251,4 +251,4 @@ Published one public, no-login Completion Exemplar Card v1 using Context as the 
 
 The page shows one completed Task Node contribution pattern, identifies the modeled artifact format, displays the finished-state signal, and explains the proof expectation using privacy-safe screenshots and a direct public artifact URL.
 
-**URL:** [INSERT COMPLETION EXEMPLAR CARD V1 URL AFTER PUBLISHING]
+**URL:** https://github.com/DEX3333/Completion-Exemplar-Card-v1/blob/main/exemplar-card-v1.md
