@@ -22,39 +22,15 @@ It is not an XRP token, XRP app, or feature inside XRP.
 
 ## Modeled Artifact Format
 
-**Context Explainer Page**
+**Completion Exemplar Card**
 
-This exemplar models a Context Explainer Page.
-
-A Context Explainer Page is a short public artifact that helps a newcomer understand what **context** means inside Post Fiat and why it matters before any task, proof, reputation, or reward can exist.
-
-The goal is not to explain all of Post Fiat.
-
-The goal is to make the first building block concrete.
-
----
-
-## The Mechanism
+This exemplar models a real Task Node completion path using the main Post Fiat mechanism:
 
 **Context → Tasks → Proof → Reputation → Rewards**
 
-Task Node works because useful work does not appear from nowhere.
+The goal is not to explain all of Post Fiat.
 
-A contributor begins with **context**: the problem they are trying to solve, the source material they are working from, the constraints they must respect, and the prior work they are building on.
-
-Task Node helps turn that context into a bounded task.
-
-The contributor completes the task and publishes an artifact.
-
-The artifact becomes proof.
-
-Proof can be reviewed.
-
-Reviewed proof can become reputation.
-
-Reputation can support rewards.
-
-This exemplar shows that loop in one concrete public-facing example.
+The goal is to make one completed Task Node contribution pattern concrete and safe for a newcomer to imitate.
 
 ---
 
@@ -64,243 +40,115 @@ This exemplar shows that loop in one concrete public-facing example.
 
 ## 1. Context
 
-### What the contributor started with
+**Screenshot:**  
+Screenshot of my Context.
 
-**Screenshot placeholder:**  
-Add screenshot of the Task Node requirement, prompt, or assignment here.
+**Context title:**  
+Root values and life design.
 
-**Insert screenshot:** Task Node requirement showing the context for the assignment.
+Context is a living document that must be nourished to get the most out of the Task Node.
 
-### Annotation
+My personal context has changed drastically, you could say 2 or 3 times in the past few months. My context-building workflow is a highly motivated 2–3hr sesh where I write down all my values, strategies, and tactics. It doesn’t have to be perfect, just as honest as possible.
 
-This is the context layer.
+If done correctly, Task Node will provide the best tactics that route back to your values and strategies.
 
-It shows the problem space before the artifact exists:
+Once you have your pages of notes, go ahead and enter them into the **Full Rewrite** prompt under the **Context** modality in the Task Node. See screenshots.
 
-- what needed to be explained
-- who the reader was
-- what constraints mattered
-- what prior Post Fiat framing needed to be preserved
-- what the finished artifact needed to make clear
+Next, select **Start Ultra Heavy Rewrite**. This process takes a few minutes, and it should prompt you to save the edit.
 
-In this example, the contributor was not just “writing a page.”
+Check **Context** in the upper right dropdown to see if it has been populated.
 
-They were translating Post Fiat’s mechanism into newcomer-facing language while keeping the network framed accurately as an independent XRP hard-fork L1 and XRP competitor.
+**Screenshot:**  
+Screenshot of list.
 
-### Why this matters
-
-Context is what makes work reviewable.
-
-Without context, a reviewer only sees an output.
-
-With context, a reviewer can understand whether the output actually solved the right problem.
+You’ll need your password.
 
 ---
 
-## 2. Task
+## 2. Tasks
 
-### What the context became
+Now you’re ready to request a task.
 
-**Screenshot placeholder:**  
-Add screenshot of the bounded task requirements here.
+You’ll have to start with personal tasks before you can run a network or alpha task.
 
-**Insert screenshot:** Task steps, expected outcome, and verification requirement.
+Start by going to the **Sprint** tab under **Context** modality.
 
-### Annotation
+**Screenshot:**  
+Screenshot of Sprint tab under Context modality.
 
-This is the task layer.
+Prompt with what you’d like to work on first. Once you come to an agreement on what the sprint should entail, it’ll propose an edit. Look it over, lock it in, and that will populate your context doc as well.
 
-The original context was converted into a bounded assignment with a specific expected output.
+Down the line you will replace and edit these in your context doc as you complete them.
 
-A good Task Node contribution should be narrow enough that a reviewer can answer:
+**Note:**  
+You can edit your context however you like. This is how you communicate your life to an LLM.
 
-- What was the contributor asked to produce?
-- What should the finished version include?
-- What should be excluded?
-- What evidence proves completion?
+Next, upper right dropdown:
 
-For this exemplar, the task is complete only if it produces one public, no-login page that explains the chosen mechanism clearly and safely.
+**Dashboard → Request Task**
 
-### Finished-state signal
+**Screenshot:**  
+Screenshot of Dashboard → Request Task.
 
-The task is complete when:
+You’ll see tabs for **Personal**, **Network**, and **Alpha**.
 
-- the page loads from a direct public URL
-- the page focuses on one mechanism building block
-- the page identifies the modeled artifact format
-- the page shows what completion looks like
-- the page explains what proof should be submitted
-- the page avoids private or sensitive material
-- the page does not become a full onboarding system or campaign
+Prompt with your sprint objective title.
 
----
+**Screenshot:**  
+Screenshot of sprint objective title prompt.
 
-## 3. Finished Artifact
+The Task Node will generate your first task.
 
-### What was produced
+You’ll have the option to **Accept**, **Amend**, or **Refuse**.
 
-**Artifact URL:**  
-[INSERT PUBLIC ARTIFACT URL HERE]
+Once you have looked over the task and are satisfied with the requirements, accept it and you’re ready to execute.
 
-**Screenshot placeholder:**  
-Add screenshot of the published public artifact here.
-
-**Insert screenshot:** Published artifact page loading publicly.
-
-### Annotation
-
-This is the finished public artifact.
-
-It is the contributor’s completed output.
-
-The artifact should be understandable without private Discord access, wallet access, internal context, or a personal explanation from the contributor.
-
-A newcomer should be able to open the link and understand the concept being modeled.
-
-### In this example
-
-The finished artifact explains **Context** as the first building block in the Post Fiat mechanism:
-
-**Context → Tasks → Proof → Reputation → Rewards**
-
-It shows that context is not just a prompt.
-
-Context is the working record around the contribution:
-
-- the goal
-- the constraint
-- the source material
-- the prior work
-- the intended reader
-- the reason the task matters
-- the standard the output must meet
+**Screenshot:**  
+Screenshots for accepted task.
 
 ---
 
-## 4. Proof Submission
+## 3. Proof
 
-### How the work was submitted
+This is where you begin to build your proof layer.
 
-**Screenshot placeholder:**  
-Add screenshot of the Task Node submission, URL submission, or completion note here.
+Work through the sprint plan, remembering to document your workflow.
 
-**Insert screenshot:** Submitted proof with URL and short completion note.
+I use an analog notebook and a daily proof log personally, but whatever helps you keep track of your thought processes and decisions will help you a lot in the long run. We are playing the long game, very hard to remember when AI allows you to move so fast.
 
-### Completion note included in the exemplar
+**Screenshot:**  
+Screenshot of chat modalities.
 
-Published one public, no-login Context Explainer Page showing how context becomes a bounded Task Node contribution. The page identifies the modeled artifact format, explains the finished-state signal, links to the public artifact, and shows the proof expectation in plain newcomer-facing language.
+Once you feel as though you have all the necessary verification requirements complete, double/triple check, and you’re now ready to submit evidence.
 
-### Annotation
+Once you’ve signed and submitted, the Task Node will ask you a quick verification question.
 
-This is the proof layer.
-
-Proof does not need to expose private process, raw drafts, private messages, or sensitive information.
-
-For a public-artifact contribution, the strongest proof is usually:
-
-- a direct public URL
-- a short completion note
-- a clear explanation of what was completed
-- confirmation that the page loads without login
-- confirmation that the artifact matches the task requirements
-
-Good proof makes review easy.
-
-It does not force the reviewer to guess what changed or why the work matters.
+Once you’ve completed that and made any edit necessary, the task will be assessed.
 
 ---
 
-## 5. Review / Verification
+## 4. Reputation and Rewards
 
-### How completion was checked
+Once a task is assessed based on submission and your current standing/reputation in the network, see the **Rewards** tab for the completed work.
 
-**Screenshot placeholder:**  
-Add screenshot of reviewer question, verification prompt, accepted status, or review result here.
+**Screenshot:**  
+Screenshot of Rewards tab.
 
-**Insert screenshot:** Reviewer verification step or accepted result.
+Click on the rewarded task to see overview and status.
 
-### Annotation
+**Screenshot:**  
+Screenshot of rewarded task overview and status.
 
-This is the review layer.
+Then click on **Task ID**.
 
-The contributor claims completion.
+This will give you your full rundown of reward, alignment, Task Node feedback, and score.
 
-The reviewer checks the claim against the task.
+**Screenshot:**  
+Screenshot of reward, alignment, Task Node feedback, and score.
 
-A reviewer should be able to verify:
+It will also summarize the process that got you there, which relates back to proof.
 
-- Does the URL load publicly?
-- Does the page show exactly one exemplar?
-- Is the modeled artifact format named?
-- Is the completion state visible?
-- Is the proof expectation clear?
-- Is Post Fiat framed correctly?
-- Is sensitive material excluded?
-
-Review turns the artifact from a self-claimed output into a network-legible proof.
-
----
-
-## 6. Reputation
-
-### What the proof contributes to
-
-**Screenshot placeholder:**  
-Add screenshot of accepted status, score, task history, or reward result here if appropriate.
-
-**Insert screenshot:** Accepted proof, score, reward, or reputation signal.
-
-### Annotation
-
-This is the reputation layer.
-
-A single completed task is not just a one-off output.
-
-Once reviewed, it becomes part of the contributor’s visible work history.
-
-That history can show:
-
-- reliability
-- task comprehension
-- proof quality
-- ability to follow constraints
-- ability to produce useful public artifacts
-- ability to make Post Fiat easier for others to understand
-
-Reputation is not clout.
-
-Reputation is accumulated memory of verified contribution.
-
----
-
-## 7. Rewards
-
-### What verified work can earn
-
-**Screenshot placeholder:**  
-Add screenshot of reward result only if it is public-safe.
-
-**Insert screenshot:** Reward result, amount, tier, or score if safe to show.
-
-### Annotation
-
-This is the reward layer.
-
-Rewards follow reviewed contribution.
-
-In Post Fiat, the important pattern is not just “write something and get paid.”
-
-The stronger pattern is:
-
-**Context becomes a Task.**
-
-**The Task produces Proof.**
-
-**Proof becomes Reputation.**
-
-**Reputation supports Rewards.**
-
-That is the loop this exemplar is meant to make visible.
+All immutable on the blockchain. Portable reputation.
 
 ---
 
@@ -310,16 +158,14 @@ Do not copy the exact artifact.
 
 Copy the completion pattern.
 
-## The pattern
-
-1. Start with real context.
-2. Accept or define one bounded task.
-3. Produce one finished artifact.
-4. Publish it at a direct public URL.
-5. Submit the URL with a short completion note.
-6. Make review easy.
-7. Keep proof privacy-safe.
-8. Let the completed work become part of your reputation.
+1. Build honest context.
+2. Use context to generate a bounded task.
+3. Complete the task.
+4. Document your workflow.
+5. Submit evidence.
+6. Answer the verification question.
+7. Let the task be assessed.
+8. Review the reward, feedback, score, and reputation signal.
 
 ---
 
@@ -367,11 +213,13 @@ Remove or hide:
 
 Keep only what helps the reviewer understand:
 
-- the task requirement
-- the finished artifact
+- the context layer
+- the sprint/task request
+- the accepted task
 - the submitted proof
 - the verification step
-- the accepted result or reward signal, if public-safe
+- the assessed task
+- the reward/reputation signal, if public-safe
 
 ---
 
@@ -399,7 +247,7 @@ A reviewer can pass this exemplar if:
 
 This exemplar presents the finished public output and reviewable proof path only.
 
-It does not require private drafts, private process screenshots, hidden coordination, wallet identifiers, private Discord material, or sensitive internal information.
+It does not require private drafts, hidden coordination, wallet identifiers, private Discord material, or sensitive internal information.
 
 Review should be based on:
 
@@ -413,6 +261,8 @@ Review should be based on:
 
 # Submission Text
 
-Published one public, no-login Completion Exemplar Card v1 using Context as the main building block in the Post Fiat mechanism: Context → Tasks → Proof → Reputation → Rewards. The page shows one completed Task Node contribution pattern, identifies the modeled artifact format, displays the finished-state signal, and explains the proof expectation using privacy-safe screenshots and a direct public artifact URL.
+Published one public, no-login Completion Exemplar Card v1 using Context as the main building block in the Post Fiat mechanism: Context → Tasks → Proof → Reputation → Rewards.
+
+The page shows one completed Task Node contribution pattern, identifies the modeled artifact format, displays the finished-state signal, and explains the proof expectation using privacy-safe screenshots and a direct public artifact URL.
 
 **URL:** [INSERT FINAL PUBLIC URL HERE]
