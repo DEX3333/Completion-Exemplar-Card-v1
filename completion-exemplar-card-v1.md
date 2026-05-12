@@ -49,9 +49,11 @@ My personal context has changed drastically, you could say 2 or 3 times in the p
 
 If done correctly, Task Node will provide the best tactics that route back to your values and strategies.
 
-Once you have your pages of notes, go ahead and enter them into the **Full Rewrite** prompt under the **Context** modality in the Task Node. See screenshots.
+Once you have your pages of notes, go ahead and enter them into the **Full Rewrite** prompt under the **Context** modality in the Task Node. 
+![Context full rewrite redacted](images/02-context-full-rewrite-redacted.png)
 
 Next, select **Start Ultra Heavy Rewrite**. This process takes a few minutes, and it should prompt you to save the edit.
+![Request task](images/03-request-task.png)
 
 Check **Context** in the upper right dropdown to see if it has been populated.
 
