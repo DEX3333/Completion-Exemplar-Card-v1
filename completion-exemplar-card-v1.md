@@ -40,7 +40,7 @@ The goal is to make one completed Task Node contribution pattern concrete and sa
 
 ## 1. Context
 
-![Context full rewrite screen](precise-redacted-context-selected-sections.png)
+!(images/precise-redacted-context-selected-sections.png)
 Screenshot of my Context.
 
 **Context title:**  
