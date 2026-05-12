@@ -111,6 +111,7 @@ I use an analog notebook and a daily proof log personally, but whatever helps yo
 Use chat modalities to help complete the task.
 
 Once you feel as though you have all the necessary verification requirements complete, double/triple check, and you’re now ready to submit evidence.
+
 ![Task accepted](images/11-task-accepted.png)
 
 Once you’ve signed and submitted, the Task Node will ask you a quick verification question.
