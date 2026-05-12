@@ -56,9 +56,7 @@ Next, select **Start Ultra Heavy Rewrite**. This process takes a few minutes, an
 ![Request task](images/03-request-task.png)
 
 Check **Context** in the upper right dropdown to see if it has been populated.
-
-**Screenshot:**  
-Screenshot of list.
+![Sprint plan](images/04-sprint-plan.png) 
 
 You’ll need your password.
 
@@ -71,11 +69,10 @@ Now you’re ready to request a task.
 You’ll have to start with personal tasks before you can run a network or alpha task.
 
 Start by going to the **Sprint** tab under **Context** modality.
-
-**Screenshot:**  
-Screenshot of Sprint tab under Context modality.
+![Context full rewrite](images/05-context-full-rewrite.png) 
 
 Prompt with what you’d like to work on first. Once you come to an agreement on what the sprint should entail, it’ll propose an edit. Look it over, lock it in, and that will populate your context doc as well.
+![Full rewrite buttons](images/09-full-rewrite-buttons.png)
 
 Down the line you will replace and edit these in your context doc as you complete them.
 
@@ -85,25 +82,18 @@ You can edit your context however you like. This is how you communicate your lif
 Next, upper right dropdown:
 
 **Dashboard → Request Task**
+![Profile dropdown](images/08-profile-dropdown.png)
 
-**Screenshot:**  
-Screenshot of Dashboard → Request Task.
-
-You’ll see tabs for **Personal**, **Network**, and **Alpha**.
-
+Under the **Personal** tab
 Prompt with your sprint objective title.
-
-**Screenshot:**  
-Screenshot of sprint objective title prompt.
 
 The Task Node will generate your first task.
 
 You’ll have the option to **Accept**, **Amend**, or **Refuse**.
 
 Once you have looked over the task and are satisfied with the requirements, accept it and you’re ready to execute.
-
-**Screenshot:**  
-Screenshots for accepted task.
+![Context populated](images/10-context-populated.png)
+Screenshot of accepted task.
 
 ---
 
@@ -115,37 +105,34 @@ Work through the sprint plan, remembering to document your workflow.
 
 I use an analog notebook and a daily proof log personally, but whatever helps you keep track of your thought processes and decisions will help you a lot in the long run. We are playing the long game, very hard to remember when AI allows you to move so fast.
 
-**Screenshot:**  
-Screenshot of chat modalities.
+![Verification reward requirement](images/12-verification-reward-requirement.png)
+Use chat modalities to help complete the task.
 
 Once you feel as though you have all the necessary verification requirements complete, double/triple check, and you’re now ready to submit evidence.
+![Task accepted](images/11-task-accepted.png)
 
 Once you’ve signed and submitted, the Task Node will ask you a quick verification question.
 
-Once you’ve completed that and made any edit necessary, the task will be assessed.
+Once you’ve completed that and made any edits necessary, the task submission will be assessed.
 
 ---
 
 ## 4. Reputation and Rewards
 
-Once a task is assessed based on submission and your current standing/reputation in the network, see the **Rewards** tab for the completed work.
+Once a task is assessed based on submission and your current standing/reputation in the network, see the **Rewards** tab in your **dashboard** for the completed work.
 
-**Screenshot:**  
-Screenshot of Rewards tab.
+![Contribution impact](images/14-contribution-impact.png)
 
 Click on the rewarded task to see overview and status.
-
-**Screenshot:**  
-Screenshot of rewarded task overview and status.
+![Rewards list](images/15-rewards-list.png)
 
 Then click on **Task ID**.
 
 This will give you your full rundown of reward, alignment, Task Node feedback, and score.
-
-**Screenshot:**  
-Screenshot of reward, alignment, Task Node feedback, and score.
+![Reward overview](images/16-reward-overview.png)
 
 It will also summarize the process that got you there, which relates back to proof.
+![Forensic timeline](images/17-forensic-timeline.png)
 
 All immutable on the blockchain. Portable reputation.
 
@@ -264,4 +251,4 @@ Published one public, no-login Completion Exemplar Card v1 using Context as the 
 
 The page shows one completed Task Node contribution pattern, identifies the modeled artifact format, displays the finished-state signal, and explains the proof expectation using privacy-safe screenshots and a direct public artifact URL.
 
-**URL:** [INSERT FINAL PUBLIC URL HERE]
+**URL:** [https://github.com/DEX3333/Discord-Contributor-Adoption-Flow-v1/blob/main/Discord%20Contributor%20Adoption%20Flow%20v1]
