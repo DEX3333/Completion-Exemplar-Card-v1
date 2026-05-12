@@ -127,14 +127,17 @@ A task is assessed based on submission and your current standing/reputation in t
 ![Contribution impact](images/14-contribution-impact.png)
 
 Click on the rewarded task to see overview and status.
+
 ![Rewards list](images/15-rewards-list.png)
 
 Then click on **Task ID**.
 
 This will give you your full rundown of reward, alignment, Task Node feedback, and score.
+
 ![Reward overview](images/16-reward-overview.png)
 
 It will also summarize the process that got you there, which relates back to proof.
+
 ![Forensic timeline](images/17-forensic-timeline.png)
 
 All immutable on the blockchain = portable reputation.
