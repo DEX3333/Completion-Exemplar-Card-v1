@@ -56,6 +56,7 @@ Next, select **Start Ultra Heavy Rewrite**. This process takes a few minutes, an
 ![Request task](images/03-request-task.png)
 
 Check **Context** in the upper right dropdown to see if it has been populated.
+
 ![Sprint plan](images/04-sprint-plan.png) 
 
 You’ll need your password.
