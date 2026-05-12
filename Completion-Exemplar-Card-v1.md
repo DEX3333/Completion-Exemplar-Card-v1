@@ -128,7 +128,7 @@ Once you’ve completed that and made any edits necessary, the task submission w
 
 ## 4. Reputation and Rewards
 
-A task is assessed based on submission and your current standing/reputation in the network, see the **Rewards** tab in your **dashboard** for the completed work.
+Once a task is assessed, the completed work appears in the **Rewards** tab of your **Dashboard**, shaped by the submission itself and your current standing/reputation in the network.
 
 ![Contribution impact](images/14-contribution-impact.png)
 
