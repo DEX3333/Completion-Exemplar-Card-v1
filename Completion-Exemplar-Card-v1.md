@@ -29,6 +29,7 @@ This exemplar models a previously rewarded public-facing Post Fiat artifact form
 The prior artifact is used only as the model for what a completed public-artifact contribution looks like. It is not being resubmitted as the new deliverable.
 
 This new deliverable is the Completion Exemplar Card v1: a single annotated page showing how a completed Task Node contribution moves from Context → Tasks → Proof → Reputation → Rewards.
+
 ---
 
 ## Finished-State Signal
