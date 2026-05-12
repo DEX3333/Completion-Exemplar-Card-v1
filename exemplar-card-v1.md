@@ -24,7 +24,7 @@ It is not an XRP token, XRP app, or feature inside XRP.
 
 **Completion Exemplar Card**
 
-This exemplar models a real Task Node completion path using the main Post Fiat mechanism:
+This exemplar models a real Task Node completion path using the main Post Fiat Task Node mechanism:
 
 **Context → Tasks → Proof → Reputation → Rewards**
 
