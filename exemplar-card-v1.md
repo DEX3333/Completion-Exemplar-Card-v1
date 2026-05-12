@@ -105,7 +105,7 @@ This is where you begin to build your proof layer.
 
 Work through the sprint plan, remembering to document your workflow.
 
-I use an analog notebook and a daily proof log personally, but whatever helps you keep track of your thought processes and decisions will help you a lot in the long run. We are playing the long game, very hard to remember when AI allows you to move so fast.
+I use an analog notebook and a daily proof log personally, but whatever helps you keep track of your thought processes and decisions will help you a lot in the long run. We are playing the long game, which is easy to forget when AI lets you move so fast.
 
 ![Verification reward requirement](images/12-verification-reward-requirement.png)
 Use chat modalities to help complete the task.
